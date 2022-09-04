@@ -1,0 +1,26 @@
+{
+	"pais": {
+		"moneda": "Dolar estadounidense",
+		"prefijo_telefonico": "+503",
+		"idioma": "español",
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"area_territorial": "886.15 km2",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Chalatenango",
+				"habitantes": "275,100",
+				"altura": "387 MSNM",
+				"area_territorial": "2017 km2",
+				"_id": "2",
+				"_nombre": "Chalatenango"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

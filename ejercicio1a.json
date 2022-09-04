@@ -1,0 +1,23 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "Herbert Daniel",
+				"apellido": "Chicas Duarte",
+				"direccion": "Ilopango, San Salvador",
+				"telefono": "1234-5678",
+				"email": "cd17008@ues.edu.sv",
+				"url": "https://cd17008.github.io/tarea21c/",
+				"_id": "2",
+				"_fechaingreso": "3/9/2022"
+			}
+		]
+	}
+}

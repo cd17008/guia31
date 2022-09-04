@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio2a.css"?>
+<!-- ejemplo2.xml  CD17008-->
+<pais nombre="El Salvador">
+<moneda>Dolar estadounidense</moneda>
+<prefijo_telefonico>+503</prefijo_telefonico>
+<idioma>español</idioma>
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+<area_territorial>886.15 km2</area_territorial>
+</departamento>
+<departamento id="2" nombre="Chalatenango">
+<cabecera>Chalatenango</cabecera>
+<habitantes>275,100</habitantes>
+<altura>387 MSNM</altura>
+<area_territorial>2017 km2</area_territorial>
+</departamento>
+</pais>
